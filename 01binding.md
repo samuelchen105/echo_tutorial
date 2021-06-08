@@ -1,6 +1,6 @@
 # 01 Binding
 
-This part is about binding data from source to structure, if you want to retrieve single data by name, see [05 Request & Validation](./05request_and_validation).
+This part is about binding data from source to structure, if you want to retrieve single data by name, see [05 Request & Validation](./05request_and_validation.md).
 
 The struct fields for binding data should have **tags**
 
