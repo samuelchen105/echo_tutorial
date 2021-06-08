@@ -13,12 +13,12 @@ Or you can just import it, initial module, and use `go mod tidy`. It will be dow
 ### Use the example
 
 ```powershell
-git clone "TODO"
+git clone https://github.com/yuhsuan105/echo_tutorial.git
 cd example
 go run main.go
 ````
 
-After server start, you can use these tools to send request and see the result
+After server start, you can use these tools to send request and see the result.
 
 - `curl`
 
@@ -27,8 +27,10 @@ curl -X GET "http://localhost:8080/"
 ```
 
 - browser
-browser need some extension to send not-GET method
+
 - postman
+
+In most example, I will use `curl`
 
 ## Basic
 
