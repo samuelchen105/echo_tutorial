@@ -14,7 +14,7 @@ Or you can just import it, initial module, and use `go mod tidy`. It will be dow
 
 ```powershell
 git clone https://github.com/yuhsuan105/echo_tutorial.git
-cd example
+cd echo_tutorial/example
 go run main.go
 ````
 

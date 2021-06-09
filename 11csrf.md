@@ -84,5 +84,5 @@ curl -X POST "http://localhost:8080/csrf"
 
 ## Reference
 
-[讓我們來談談 CSRF](https://blog.techbridge.cc/2017/02/25/csrf-introduction/)
-[echo doc](https://echo.labstack.com/middleware/csrf/)
+- [讓我們來談談 CSRF](https://blog.techbridge.cc/2017/02/25/csrf-introduction/)
+- [echo doc](https://echo.labstack.com/middleware/csrf/)
